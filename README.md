@@ -5,6 +5,7 @@ Your first task will be to design the interface for a web quiz for middle school
 
 ## Step 2: Code
 The final task of this exercise is to convert your design into a functioning interface using web technologies. You can use any libraries or frameworks you like.
+
 Technical requirements:
 -	The layout must look good on large and small screens.
 -	The quiz must be as accessible to the target audience as possible.
