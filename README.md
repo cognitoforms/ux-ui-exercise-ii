@@ -8,6 +8,7 @@ The final task of this exercise is to convert your design into a functioning int
 Technical requirements:
 -	The layout must look good on large and small screens.
 -	The quiz must be as accessible to the target audience as possible.
+
 Build your quiz using [CodeSandbox](https://codesandbox.io) or import it there when you’re finished.
 
 _You may organize files as you see fit._
