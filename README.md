@@ -15,6 +15,6 @@ Build your quiz using [CodeSandbox](https://codesandbox.io) or import it there w
 _You may edit and organize the existing files as you see fit._
 
 ---
-On the following application form, provide a URL to your design (E.g., PDF link, Figma link, etc.) and a link to your functioning CodeSandbox link.
+On the following application form, provide a URL to your design (E.g., PDF link, Figma link) and a link to your functioning CodeSandbox link.
 
 :memo: ___[Submit your solution here](https://www.cognitoforms.com/CognitoForms/EmploymentSurvey?v2&entry=%7B%22Position%22%3A%2259-18%22%7D)___ :mailbox:
