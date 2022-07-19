@@ -11,11 +11,11 @@ Please write the HTML and CSS for a UI component with the following charactarist
 
 **Extra Credit:** Display a tooltip (doesn't matter how it looks) upon hovering over a button that has truncated text. The tooltip should not appear if the text is not truncated.
 
-## Example with plenty of room
-...
+### Example with plenty of room
+![wide-viewport](https://user-images.githubusercontent.com/4097146/179766658-97b68788-e582-4717-af23-d89a43615eb0.svg)
 
-## Example with a more constrained viewport
-...
+### Example with a more constrained viewport
+![narrow-viewport](https://user-images.githubusercontent.com/4097146/179766702-89d58bc3-cba6-4de0-b379-ad56aaf89410.svg)
 
 Build your quiz using [CodeSandbox](https://codesandbox.io) or import it there when you’re finished.
 ---
