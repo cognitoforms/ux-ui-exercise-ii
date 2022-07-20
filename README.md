@@ -21,4 +21,4 @@ Build your quiz using [CodeSandbox](https://codesandbox.io) or import it there w
 ---
 On the following application form, provide a link to your functioning CodeSandbox link.
 
-:memo: ___[Submit your solution here](https://www.cognitoforms.com/CognitoForms/EmploymentSurvey?v2&entry=%7B%22Position%22%3A%2259-18%22%7D)___ :mailbox:
+:memo: ___[Submit your solution here](https://www.cognitoforms.com/CognitoForms/EmploymentSurvey?entry=%7B%22Position%22%3A%2259-18%22%7D)___ :mailbox:
