@@ -1,6 +1,6 @@
 # Cognito Forms UX/UI Exercise II
 
-Please write the HTML and CSS for a UI component with the following charactaristics. Please be prepared to revise your work based on feedback.
+Please write a UI component with the following charactaristics. Please be prepared to revise your work based on feedback.
 
 - A container with exactly four buttons
 - The first two buttons must be on the left of the container, the last two buttons must be on the right of the container
