@@ -7,7 +7,7 @@ Please write a UI component with the following charactaristics. Please be prepar
 - The first two buttons can be between 1 and 40 characters. The last two buttons will always be "Cancel" and "Save"
 - The buttons and button text must always stay on one line
 - On constrained viewports the variable-width buttons can be truncated when necessary. The last two buttons must never be truncated.
-- The component should look like the examples below.
+- The component should look exactly like the examples below.
 
 **Extra Credit:** Display a tooltip (doesn't matter how it looks) upon hovering over a button that has truncated text. The tooltip should not appear if the text is not truncated.
 
